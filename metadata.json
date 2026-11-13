@@ -1,0 +1,6 @@
+{
+  "name": "ARES-IV Mars Rover Engineering Simulator",
+  "description": "Interactive 3D Mars Rover assembly, telemetry dashboard, and systems verification simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
